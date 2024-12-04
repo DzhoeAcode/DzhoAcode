@@ -1,6 +1,6 @@
 {
    "name": "neoxr-bot",
-   "version": "4.1-optima",
+   "version": "4.1",
    "description": "WhatsApp Bot (Premium)",
    "main": "index.js",
    "scripts": {
